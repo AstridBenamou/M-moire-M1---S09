@@ -1,17 +1,13 @@
 # Mémoire-M1-S09
-Mémoire M1 : Prédiction de l'issue d'un match de tennis professionnel
+## Prédiction de l'issue d'un match de tennis professionnel
 
 Vous avez ici accès au code que nous avons implémenté pour ce mémoire.
 
-Vous trouverez parmis les dossiers : 
+Dans le dossier Notebooks, vous trouverez un notebook pour chaque partie du mémoire :
 
-1- Un dossier contenant les données de bases et le notebook de traitement qui nous a permis d'obtenir des données utilisables. 
+### Partie 2. Construction de notre jeu de données : Preprocessing.ipynb
+Contient toutes les manipulations que nous avons effectué sur le jeu de données initial.
 
-2- 
+### Partie 3.5 Forêts aléatoires : RandomForest.ipynb 
 
-3- Un notebook avec l'implémentation des forêts aléatoires. 
-
-4- Un notebook avec l'implémentation du réseau de neurones avec les tests effectués pour fixer les hyperparamètres. 
-
-
-Tous les notebooks sont accompagnés des données nécessaires pour les compiler sans problème. 
+### Partie 4. Deep learning : DeepLearning.ipynb 
